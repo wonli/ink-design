@@ -4,7 +4,7 @@ Download the latest Windows installer from [Releases](https://github.com/wonli/i
 
 <!-- ink-release-info:start -->
 ## Release build
-Version: **0.1.7**
-Source commit: `f807825c6cd39936bc3b72c7815a4f061382a3af`
-[Release downloads](https://github.com/wonli/ink-design/releases/tag/v0.1.7)
+Version: **0.1.8**
+Source commit: `2bbd1f4b4923e46bfa472d769913555f79fa22bd`
+[Release downloads](https://github.com/wonli/ink-design/releases/tag/v0.1.8)
 <!-- ink-release-info:end -->
